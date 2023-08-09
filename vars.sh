@@ -5,3 +5,7 @@ name="kondeti"
 age=24
 
 echo "my name is $name and age is $age"
+
+name="mounika"
+
+echo "name is $name"
