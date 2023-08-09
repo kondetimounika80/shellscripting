@@ -12,4 +12,4 @@ case $choice in
      date;;
   b)ls;;
   c)pwd;;
-  
+esac  
